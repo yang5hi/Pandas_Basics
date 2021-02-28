@@ -23,7 +23,7 @@ This is a fantasy game dataset to be analyized under python/pandas module.The go
 
 ### Purchasing Analysis (Gender)
 
-There are more male players than the other genders. The male players also purchased more than items than the other genders. As for the average purchase per person, the male players tend to spend less than the other two gender catagories.
+There are more male players than the other genders. The male players also purchased more items than the other genders. As for the average purchase per person, the male players tend to spend less than the other two gender catagories.
 
 ### Age Demographics
 
