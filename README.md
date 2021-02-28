@@ -13,7 +13,7 @@ This is a fantasy game dataset to be analyized under python/pandas module.The go
 * Number of Unique Items is 179.
 * Average Purchase Price is $3.05
 * Total Number of Purchases is 780
-* Total Revenue us $2,379.77
+* Total Revenue is $2,379.77
 
 ### Gender Demographics
 
@@ -31,7 +31,7 @@ The players have a wide age spend. The analysis broke the players based on their
 
 ### Top Spenders
 
-The top 5 spenders in the game by total purchase value are Lisosia93 ($18.96),Idastidru52 ($15.45),Chamjask($13.83), Iral74($13.62), and Iskadarya95($13.10).
+The top 5 spenders in the game by total purchase value are Lisosia93 ($18.96), Idastidru52 ($15.45), Chamjask($13.83), Iral74($13.62), and Iskadarya95($13.10).
 
 ### Most Popular Items
 
@@ -39,4 +39,4 @@ The 5 most popular items by purchase count are Final Critic (13 purchases); Oath
 
 ### Most Profitable Items
 
-The 5 most profitable items by total purchase value are Final Critic($59.99);Oathbreaker, Last Hope of the Breaking Storm ($50.76);Nirvana($44.10);Fiery Glass Crusader ($41.22); and Singed Scalpel ($34.80).
+The 5 most profitable items by total purchase value are Final Critic($59.99); Oathbreaker, Last Hope of the Breaking Storm ($50.76); Nirvana($44.10); Fiery Glass Crusader ($41.22); and Singed Scalpel ($34.80).
