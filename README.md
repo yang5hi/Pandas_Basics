@@ -41,4 +41,4 @@ The 5 most popular items by purchase count are Final Critic (13 purchases); Oath
 
 ### Most Profitable Items
 
-The 5 most profitable items by total purchase value are ***Final Critic($59.99); Oathbreaker, Last Hope of the Breaking Storm ($50.76); Nirvana($44.10); Fiery Glass Crusader ($41.22); and Singed Scalpel ($34.80).***
+The 5 most profitable items by total purchase value are **Final Critic($59.99); Oathbreaker, Last Hope of the Breaking Storm ($50.76); Nirvana($44.10); Fiery Glass Crusader ($41.22); and Singed Scalpel ($34.80).**
