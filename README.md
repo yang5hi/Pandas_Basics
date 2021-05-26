@@ -19,9 +19,9 @@ This is a fantasy game dataset to be analyzed under the python/pandas module. Th
 
 ### Gender Demographics
 
-* Percentage and Count of Male Players is 484 and 84.03%, respectively.
-* Percentage and Count of Female Players is 81 and 14.06% respectively.
-* Percentage and Count of Other / Non-Disclosed is 11 and 1.91%, respectively.
+* Percentage and Count of Male Players is 84.03% and 484, respectively.
+* Percentage and Count of Female Players is 14.06% and 81, respectively.
+* Percentage and Count of Other / Non-Disclosed is 1.91% and 11, respectively.
 
 ### Purchasing Analysis (Gender)
 
